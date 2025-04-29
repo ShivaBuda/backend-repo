@@ -1,0 +1,21 @@
+{
+    "name": "backend_course_hitesh",
+    "version": "1.0.0",
+    "description": "Note for Backend developer course",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [
+        "backend",
+        "node"
+    ],
+    "author": "Shiv Buda",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.5.0",
+        "express": "^5.1.0"
+    }
+}
